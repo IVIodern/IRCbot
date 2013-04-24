@@ -9,8 +9,8 @@ namespace IRCBot
     {
         public static string server = "irc.rizon.net";
         public static string channel = "#IIIIII";
-        public static string chanp = "iangotfiredfromarev";
-        public static string nick = "testingorz-";
+        public static string chanp = "";
+        public static string nick = "BOTNAME";
         public static int port = 6667;
         public static IRC _irc;
         static void Main(string[] args)
